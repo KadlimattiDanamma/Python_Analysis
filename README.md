@@ -1,4 +1,4 @@
-# Python_Analysis
+# Diwali_Sales_Analysis
 Diwali Sales Analysis
 Description
 This notebook analyzes sales data from Diwali, focusing on customer demographics, purchasing behavior, and sales trends. It uses Python libraries to uncover insights and visualize the data.
